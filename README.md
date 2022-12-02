@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Richard Le @chongwongus
-- 👀 I’m interested in learning about computer science
-- 🌱 I’m currently learning algorithms, machine organization & software development/quality assurance
-- 💞️ I’m looking to collaborate on future projects
+- 👀 I’m interested in computer science
 - 📫 How to reach me
 - email: ler23@uw.edu
 
